@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [8.2.2](https://github.com/snakemake/snakemake/compare/v8.2.1...v8.2.2) (2024-01-19)
+
+
+### Documentation
+
+* add missing doc dependency ([7ba9c21](https://github.com/snakemake/snakemake/commit/7ba9c21ac949ae6952044944af68874c516791ff))
+
 ## [8.2.1](https://github.com/snakemake/snakemake/compare/v8.2.0...v8.2.1) (2024-01-17)
 
 
